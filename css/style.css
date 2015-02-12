@@ -52,6 +52,23 @@
     border-bottom-color: #ffcc33;
     
 }
+
+.header-home {
+    height:24%;
+    width:100%;
+    float:center;
+    color: #d2d2d2;
+    background-color: #7a0019;
+    /*background-color: #ffcc33;
+    /*padding-top:5%;
+    padding-left:2%;*/
+    padding-bottom: 0%;
+    /*border-bottom-style: solid;
+    border-bottom-color: #7a0019;
+    border-bottom-color: #ffcc33;*/
+    
+}
+
 #header-img {
     width: 100%;
     height: auto;
@@ -177,8 +194,8 @@ a:active {
     font-family: "Helvetica Neue" ;
     background-color: #ffcc33;
     margin-bottom: 5%;
-    width:80%;
-    height:100%;
+    width:100%;
+    height:auto;
 }
     
 #content-container-home-2 {
@@ -470,13 +487,14 @@ h6 {
 
 #footerwrapper {
     width: 100%;
-    background-color: #7a0019;
+    background-color: white;
 }
     
 .copyright-footer {
     color: #52143D;
     background-color: #7a0019;
     width: 100%;
+    margin-top: 10%;
     padding-top: 10%;
     padding-left: 13%;
     padding-right: 13%;

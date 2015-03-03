@@ -106,34 +106,56 @@
 }
     
 .links-bars-home {
-    width:100%;
+     width:100%;
     height:20%;
-    margin:0%;
+    margin:0% 0% 0% 0%;
     float:left;
-    clear:both;
+    background-color: #7a0019;
 }
 
 
 .links-bars {
-    width:80%;
-    height:20%;
-    margin:0% 10% 5% 10%;
+    width:20%;
+    height:80%;
+    margin:0% 0% 0% 0%;
     float:left;
-    clear:both;
+    background-color: #7a0019;
+    
+    
+}
+
+#link-img-home-first {
+    width:11%;
+    height:auto;
+    margin:2% 2% 2% 5%;
+    
+    border-color: #000;
+
+    border-style: solid;
+}
+
+#link-img-home {
+   width:11%;
+    height:auto;
+    margin:2% ;
+}
+
+#link-img-first {
+    width:35%;
+    height:auto;
+    margin:30% 10% 0% 33%;
 }
 
 #link-img {
-    width:13%;
+    width:35%;
     height:auto;
-    margin:0% 0% 0% 3%;
-    float:left;
-    border-color: #7a0019;
-    border-style: solid;
+    margin:5% 10% 0% 33%;
+  
 }
 
 .links-home {
     width:auto;
-    height: 100%;
+    height: 30%;
     padding-left: 3%;
     /*
     border-right-style:solid;
@@ -185,20 +207,47 @@ a:active {
     color: #7a0019;
     font-family: "Helvetica Neue" ;
     background-color: #ffcc33;
-    width:90%;
-    height:20%;
-    margin: 5% 0% 5% 5%;
+    width:70%;
+    height:80%;
+    margin: 5% 0% 5% 10%;
+    float: left;
+   
 }
 
 #content-container-home {
     color: #7a0019;
     font-family: "Helvetica Neue" ;
     background-color: #ffcc33;
-    margin-bottom: 5%;
+    margin:0%;
     width:100%;
     height:auto;
 }
-    
+
+#home-title {
+    margin:5% 0% 0% 0%;
+    padding: 1% 5% 1% 5%;
+    font-size: 3em;
+}
+
+#top-note-home {
+    padding:1% 5% 1% 5%;
+    font-size: 1.5em;
+}
+
+#home-img {
+    width: 70%;
+    height: auto;
+    margin: 0% 5% 5% 0%;
+}
+
+#side-note-home {
+    width: 25%;
+    padding:2% 2% 5% 5%;
+    height: auto;
+    float: left;
+    font-size: 1.5em;
+}
+   
 #content-container-home-2 {
     color: #7a0019;
     font-family: "Helvetica Neue" ;
@@ -495,8 +544,8 @@ h6 {
     color: #52143D;
     background-color: #7a0019;
     width: 100%;
-    margin-top: 10%;
-    padding-top: 10%;
+    margin-top: 5%;
+    padding-top: 5%;
     padding-left: 13%;
     padding-right: 13%;
     font-size: 1rem;

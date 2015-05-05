@@ -78,6 +78,8 @@
     /*border-bottom-style: solid;
     border-bottom-color: #7a0019;
     border-bottom-color: #ffcc33;*/
+    border-style: solid;
+    border-color: #fff;
     
 }
 
@@ -85,6 +87,7 @@
     width: 100%;
     height: auto;
     margin-bottom: 0%;
+    
 }
 
 #header-img {
@@ -217,7 +220,7 @@ a:active {
 
 #content-container {
     color: #7a0019;
-    font-family: "Sans serif" ;
+    font-family: "verdana";
     background-color: #ffcc33;
     width:70%;
     height:80%;
@@ -228,7 +231,7 @@ a:active {
 
 #content-container-home {
     color: #7a0019;
-    font-family: "Sans serif" ;
+    font-family: "verdana";
     background-color: #ffcc33;
     margin:0%;
     width:100%;
@@ -239,7 +242,7 @@ a:active {
     margin:5% 0% 0% 3%;
     padding: 1% 2.5% 1% 2.5%;
     font-size: 3em;
-    font-family: "Sans serif" 
+    font-family: "verdana";
 }
 
 #top-home-wrapper{
@@ -284,7 +287,7 @@ a:active {
    
 #content-container-home-2 {
     color: #7a0019;
-    font-family: "Helvetica Neue" ;
+    font-family: "verdana";
     background-color: #ffcc33;
     margin-bottom: 5%;
     width:20%;
